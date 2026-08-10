@@ -1,9 +1,7 @@
-<div align="center">
-  <a href="https://github.com/JeetShah-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=60&lines=JEET+SHAH&repeat=false" alt="Jeet Shah" />
-  </a>
-  <p><b>Computer Engineering Student & Software Engineer</b></p>
-</div>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Jeet Shah" src="art/header-light.png">
+</picture>
 
 ### About
 Computer Engineering student focusing on applied AI, frontend architecture, and analytics systems.
@@ -19,6 +17,4 @@ Computer Engineering student focusing on applied AI, frontend architecture, and 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ceuf2yqcfp6zi2ob54tz5y35c4&count=4&width=1000&unique=1)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JeetShah-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JeetShah-10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JeetShah-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=JeetShah-10&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=EF233C&icon_color=3A86FF&text_color=E5E5E5" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeetShah-10&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=EF233C&text_color=E5E5E5" /> </p> <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JeetShah-10&hide_border=true&background=0D1117&ring=EF233C&fire=3A86FF&currStreakLabel=EF233C&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=E5E5E5&dates=8B949E" /> </p> <br>
