@@ -8,7 +8,7 @@ About Me :
 
 Computer Engineering student building AI-powered systems — from security training platforms to sports analytics. Outside of code: F1 weekends, football, the occasional chess game, and sketching when the queue is right.
 
-</td> <td width="35%" align="center"> <img src="art/miles" width="140" /> </td> </tr> </table> <br>
+</td> <td width="35%" align="center"> <img src="art/Miles.png"/> </td> </tr> </table> <br>
 
 <img src="https://img.shields.io/github/followers/JeetShah-10?style=for-the-badge&color=EF233C&logo=github&logoColor=white&label=Followers" /> <img src="https://komarev.com/ghpvc/?username=JeetShah-10&style=for-the-badge&color=3A86FF&label=Profile+Views" /> </p> <br>
 
