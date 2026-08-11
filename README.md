@@ -6,7 +6,7 @@
 About Me : 
 <table> <tr> <td width="65%" valign="middle">
 
-Computer Engineering student building AI-powered systems — from security training platforms to sports analytics. Outside of code: F1 weekends, football, the occasional chess game, and sketching when the queue is right.
+Computer Engineering student building AI-powered systems, from security training platforms to sports analytics. Outside of code: F1 weekends, football, the occasional chess game, and sketching when the queue is right.
 
 </td> <td width="35%" align="center"> <img src="art/Miles.png"/> </td> </tr> </table> <br>
 
